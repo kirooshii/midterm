@@ -1,3 +1,5 @@
+package midterm.makar_lavrov_1.task3;
+
 public class FMSTester {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package midterm.makar_lavrov_1.task3;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -31,10 +33,10 @@ public class FMS {
 
     public void printPit() {
         if (pit.isEmpty()) {
-            System.out.println("The pit is empty");
+            System.out.println("The paddock is empty");
         } else {
             for (Car b: pit) {
-                System.out.println("Those cars are in the pit:");
+                System.out.println("These cars are in the pit:");
                 System.out.println(b.getDriver() + ", " + b.getTeam());
             }
         }

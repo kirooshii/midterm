@@ -1,3 +1,5 @@
+package midterm.makar_lavrov_1.task3;
+
 public class Car {
 
     private String team, driver;    
