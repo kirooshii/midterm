@@ -3,8 +3,7 @@ package midterm.makar_lavrov_1.task1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Fantasy extends AbstractFantasy implements Dream {
-    // TODO change studentName to your name
+public class Fantasy extends AbstractFantasy implements Dream { 
     private String studentName = "Makar Lavrov";
 
     public String toString() {
